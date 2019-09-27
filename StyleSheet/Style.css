@@ -143,7 +143,7 @@
 
 body {
     max-width: initial;
-	background: url("assets/Pictures/bg1.JPG");
+	background: url("../assets/Pictures/bg1.JPG");
 	background-size:1920px;
     background-repeat: repeat-x;
     background-repeat:repeat-y;
