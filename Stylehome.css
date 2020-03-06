@@ -3,6 +3,11 @@
 	src:url(GillSansUltraBold.ttf);
 }
 
+@font-face{
+	font-family:lemonmilkfont;
+	src:url(LemonMilk.otf);
+}
+
 .nav{
 	display: flex;
 	flex-direction: row;
@@ -34,6 +39,15 @@
 	text-size: 300%;
 	color: DodgerBlue;
 	text-shadow: 3px 2px black;
+}
+.info{
+	font-family:lemonmilkfont;
+	font-size: 100%;
+	text-align:center;
+	text-size: 100%;
+	color: Black;
+	
+	
 }
 body{
 	background: url("assets/Pictures/leaves.jpg");
